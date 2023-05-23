@@ -24,6 +24,9 @@ img{
 div{
     background-color: greenyellow;
 }
+a{
+    text-decoration: none;
+}
 /*.child5{
     display: flex;
     justify-content: space-between;
