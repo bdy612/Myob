@@ -1,0 +1,26 @@
+.T{
+    font-size: larger;
+    text-align: center;
+}
+.N{
+    font-size: larger;
+    text-align: center;
+    transform: translateY(50px);
+}
+.all{
+    background-color: aqua;
+    height: 100%;
+    width: 100%;
+}
+html{
+    background-color: aqua;
+}
+.TN{
+    color: brown;
+}
+a{
+    margin-top: 50px;
+    display: inline-block;
+    text-align: center;
+    margin-left: 45%;
+}
